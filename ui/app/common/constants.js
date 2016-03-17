@@ -163,7 +163,6 @@ Bahmni.Common = Bahmni.Common || {};
         orderSetMemberAttributeTypeUrl: RESTWS_V1 + "/ordersetmemberattributetype",
         orderSetUrl: RESTWS_V1 + "/orderset",
         primaryOrderSetMemberAttributeTypeName: "Primary",
-        drugUrl : RESTWS_V1 + "/drug?s=ordered",
         bahmniBacteriologyResultsUrl: BACTERIOLOGY + "/specimen",
         bedFromVisit: RESTWS_V1+ "/beds",
         ordersUrl: RESTWS_V1+ "/order",
